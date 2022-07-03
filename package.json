@@ -1,23 +1,22 @@
 {
-  "name": "style-dictionary",
+  "name": "@mgmgshake/my-style-dictionary",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "style": "build/css/design-tokens.css",
+  "files": [
+    "build/css/**"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mgmgshake/style-dictionary.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Maki Goto",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mgmgshake/style-dictionary/issues"
   },
-  "homepage": "https://github.com/mgmgshake/style-dictionary#readme",
-  "dependencies": {
-    "dotenv": "^16.0.1",
-    "node-fetch": "^3.2.6"
-  }
+  "publishConfig": {
+    "access": "public"
+  },
+  "homepage": "https://github.com/mgmgshake/style-dictionary#readme"
 }

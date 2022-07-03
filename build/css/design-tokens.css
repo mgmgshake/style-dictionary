@@ -1,0 +1,33 @@
+/**
+ * Do not edit directly
+ * Generated on Sun, 03 Jul 2022 06:48:14 GMT
+ */
+
+:root {
+  --color-base-blue-100: #daecff;
+  --color-base-blue-200: #99ccf3;
+  --color-base-blue-300: #3399ff;
+  --color-base-blue-500: #007fff;
+  --color-base-blue-600: #0072e5;
+  --color-base-blue-900: #003a75;
+  --color-base-gray-100: #e7ebf0;
+  --color-base-gray-200: #e0e3e7;
+  --color-base-gray-300: #cdd2d7;
+  --color-base-gray-400: #b2bac2;
+  --color-base-gray-500: #a0aab4;
+  --color-base-gray-600: #6f7e8c;
+  --color-base-gray-700: #3e5060;
+  --color-base-gray-800: #2d3843;
+  --color-base-gray-900: #1a2027;
+  --color-base-yellow-50: #fff8e1;
+  --color-base-yellow-300: #fee182;
+  --color-base-yellow-500: #fdc400;
+  --color-base-yellow-700: #fe9000;
+  --color-font-base: #1a2027;
+  --color-font-secondary: #3e5060;
+  --color-font-tertiary: #b2bac2;
+  --size-font-small: 0.75rem; /* the small size of the font */
+  --size-font-medium: 1rem; /* the medium size of the font */
+  --size-font-large: 2rem; /* the large size of the font */
+  --size-font-base: 1rem; /* the base size of the font */
+}

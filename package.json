@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mgmgshake/style-dictionary/issues"
   },
-  "homepage": "https://github.com/mgmgshake/style-dictionary#readme"
+  "homepage": "https://github.com/mgmgshake/style-dictionary#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
 }

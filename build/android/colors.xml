@@ -2,16 +2,30 @@
 
 <!--
   Do not edit directly
-  Generated on Sun, 03 Jul 2022 05:43:00 GMT
+  Generated on Sun, 03 Jul 2022 06:34:27 GMT
 -->
 <resources>
-  <color name="color_base_gray_light">#ffcccccc</color>
-  <color name="color_base_gray_medium">#ff999999</color>
-  <color name="color_base_gray_dark">#ff111111</color>
-  <color name="color_base_red">#ffff0000</color>
-  <color name="color_base_green">#ff00ff00</color>
-  <color name="color_font_base">#ffff0000</color>
-  <color name="color_font_secondary">#ff00ff00</color>
-  <color name="color_font_tertiary">#ffcccccc</color>
+  <color name="color_base_blue_100">#ffdaecff</color>
+  <color name="color_base_blue_200">#ff99ccf3</color>
+  <color name="color_base_blue_300">#ff3399ff</color>
+  <color name="color_base_blue_500">#ff007fff</color>
+  <color name="color_base_blue_600">#ff0072e5</color>
+  <color name="color_base_blue_900">#ff003a75</color>
+  <color name="color_base_gray_100">#ffe7ebf0</color>
+  <color name="color_base_gray_200">#ffe0e3e7</color>
+  <color name="color_base_gray_300">#ffcdd2d7</color>
+  <color name="color_base_gray_400">#ffb2bac2</color>
+  <color name="color_base_gray_500">#ffa0aab4</color>
+  <color name="color_base_gray_600">#ff6f7e8c</color>
+  <color name="color_base_gray_700">#ff3e5060</color>
+  <color name="color_base_gray_800">#ff2d3843</color>
+  <color name="color_base_gray_900">#ff1a2027</color>
+  <color name="color_base_yellow_50">#fffff8e1</color>
+  <color name="color_base_yellow_300">#fffee182</color>
+  <color name="color_base_yellow_500">#fffdc400</color>
+  <color name="color_base_yellow_700">#fffe9000</color>
+  <color name="color_font_base">#ff1a2027</color>
+  <color name="color_font_secondary">#ff3e5060</color>
+  <color name="color_font_tertiary">#ffb2bac2</color>
   
 </resources>

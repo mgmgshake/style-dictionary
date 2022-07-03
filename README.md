@@ -28,3 +28,7 @@ npx style-dictionary build
 ```
 
 build ファイルに CSS が反映されます。
+
+## 注意点
+
+- Figma ファイルを変更したら、publish をお忘れなく。
